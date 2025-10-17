@@ -1,1 +1,20 @@
+Task 1 — Reading a File
 
+In this part, the program tries to open a file named sample.txt in read mode.
+
+It reads the file line by line.
+
+Each line is printed along with its line number.
+
+If the file doesn’t exist, the program doesn’t crash — instead, it shows an error message saying the file was not found.
+
+
+Task 2 — Writing and Appending Data to a File
+
+In this part, the program:
+
+Takes input from the user and writes it into a file called output.txt (this creates the file if it doesn’t already exist).
+
+Takes another input from the user and appends it to the same file without deleting the previous data.
+
+Finally, it reads and displays all the content inside output.txt after writing and appending.
